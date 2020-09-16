@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 9C02-FCC0
+
+ Directory of D:\Vinod\MyProject
+
+09/16/2020  10:31 PM    <DIR>          .
+09/16/2020  10:31 PM    <DIR>          ..
+09/16/2020  10:31 PM                 0 vinod.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  66,092,572,672 bytes free
